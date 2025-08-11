@@ -2,7 +2,8 @@
 
 Responsive e-commerce website made with *React* + *CSS*.  
 Features homepage and product detail page with responsive design for desktop, tablet, and mobile.
-
+## 🎥 project Link
+fakestoreecomerce.netlify.app
 
 ## 🎥 Demo Video
 https://drive.google.com/file/d/1Pmxp0GBxgEGIPFf9lu36brWCeCU15Jss/view?usp=sharing
